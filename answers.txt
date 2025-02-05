@@ -10,3 +10,8 @@ Answer: Machine Learning. Since all LLMs need to use data to learn and make pred
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: The difference between merging and rebasing lies in how Git integrates changes from one branch into another.
+
+
+Q4: What are you looking forward to this semester?
+
+Answer: Learning lots of new information in all my interesting CS classes. 
